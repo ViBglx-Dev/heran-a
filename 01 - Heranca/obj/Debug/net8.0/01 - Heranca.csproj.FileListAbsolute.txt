@@ -1,0 +1,4 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\01 - Heranca\obj\Debug\net8.0\01 - Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\01 - Heranca\obj\Debug\net8.0\01 - Heranca.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\01 - Heranca\obj\Debug\net8.0\01 - Heranca.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\01 - Heranca\obj\Debug\net8.0\01 - Heranca.csproj.CoreCompileInputs.cache
